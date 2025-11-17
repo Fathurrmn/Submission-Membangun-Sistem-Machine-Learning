@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+mlflow
+matplotlib
+seaborn
