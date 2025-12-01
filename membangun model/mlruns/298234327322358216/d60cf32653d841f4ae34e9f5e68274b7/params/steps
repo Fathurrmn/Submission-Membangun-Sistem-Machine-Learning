@@ -1,0 +1,1 @@
+[('tfidf', TfidfVectorizer(max_features=5000)), ('clf', LogisticRegression(random_state=42, solver='liblinear'))]

@@ -1,0 +1,9 @@
+digest: ac9a5e07
+name: amazon_preprocessed_basic
+profile: '{"num_rows": 1464, "num_elements": 4392}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "review", "required": true},
+  {"type": "long", "name": "sentiment", "required": true}, {"type": "string", "name":
+  "split", "required": true}]}'
+source: '{"uri": "file:///C:/Users/FathurNitro/OneDrive/Documents/sub dicoding/membangun
+  machine learning bismillah/amazon_preprocessing/amazon_preprocessed.csv"}'
+source_type: local
